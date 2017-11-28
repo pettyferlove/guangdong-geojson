@@ -7,7 +7,8 @@
     "guangdong",
     "g2"
   ],
-  "author": "pettyferlove@live.cn",
+  "homepage": "https://github.com/pettyferlove/guangdong-geojson",
+  "author": "Pettyfer <pettyferlove@live.cn>",
   "licenses": "MIT",
   "scripts": {
     "build": "atool-build",
