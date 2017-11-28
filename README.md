@@ -1,4 +1,4 @@
-# china-geojson
+# guangdong-geojson
 
 
 ---
@@ -6,12 +6,12 @@
 ## Install
 
 ```bash
-npm install china-geojson --save
+npm install guangdong-geojson --save
 ```
 
 ## Usage
 
 ```js
-var ChinaGeojson = require('china-geojson');
+var GuangdongGeojson = require('guangdong-geojson');
 ```
 感谢 [Echarts](http://echarts.baidu.com/)。 
